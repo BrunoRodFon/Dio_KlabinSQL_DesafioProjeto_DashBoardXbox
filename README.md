@@ -46,14 +46,14 @@ O dashboard foi construído com **tema inspirado no Xbox**, aplicando identidade
   - Customização visual (tema Xbox)
 
 ---
-
 ## 📁 Estrutura do Repositório
+
+```
 📦 dashboard-vendas-xbox-dio
-┣ 📄 README.md
-┣ 🖼️ preview.png
-┗ 📊 Dashboard_Vendas_Xbox.xlsx
-
-
+ ┣ 📄 README.md
+ ┣ 🖼️ preview.png
+ ┗ 📊 Dashboard_Vendas_Xbox.xlsx
+```
 ---
 
 ## ▶️ Como Reproduzir
